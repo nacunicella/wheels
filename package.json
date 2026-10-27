@@ -1,0 +1,22 @@
+{
+  "name": "wheels.com.ar",
+  "version": "1.0.0",
+  "description": "Wheels.com.ar: Higgsfield Seedance 2.5 video generation",
+  "scripts": {
+    "start": "tsx index.ts",
+    "typecheck": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@higgsfield/client": "^0.2.6",
+    "dotenv": "^18.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "private": "true"
+}
